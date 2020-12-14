@@ -1,0 +1,2 @@
+# GA_MLR
+Prediksi_Saham_Menggunakan_Algoritma_Genetika_dan_Regresi_BBRI
